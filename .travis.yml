@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  buildpack: php
+  app: seabreeze-cliff
+  api_key:
+    secure: G+oymq6h/DeWLbPg/I0pSt57enl+2woyGc/1CXK53WlFlnpXA55Wwq7ODfa8/CN1g21NfPqk95WXROXwWWUlnNjczKC3/xdZeOIW3pEXCH4KMjo18A9CAWGeWQAFyIXzMFjYNev5VuyRb774km/dbbENWpB3Y878G6ea7GUhW9E=
+
