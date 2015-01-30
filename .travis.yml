@@ -4,3 +4,6 @@ deploy:
     secure: JpuJB9lRoIL9j8sihlseGh5f88FQmUHog9ky8z8F3RS6V0lbAoNPmELNIsj1yORH9nSsFmRHmZ/1TPrmg31bVFqKjey6g26AessWZOjz2rWU0BHd/73yM4iSabuuSoWu+nZUslfqFqYWk2mFkjA+DMw+6SMZRzK/wNJSUswf8Ew=
   app: seabreeze-cliff
   buildpack: php
+  on:
+    all_branches: true
+
