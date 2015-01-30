@@ -6,4 +6,5 @@ deploy:
   buildpack: php
   on:
     all_branches: true
+  strategy: api
 
