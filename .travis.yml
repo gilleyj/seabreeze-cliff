@@ -3,5 +3,4 @@ deploy:
   buildpack: php
   app: seabreeze-cliff
   api_key:
-    secure: G+oymq6h/DeWLbPg/I0pSt57enl+2woyGc/1CXK53WlFlnpXA55Wwq7ODfa8/CN1g21NfPqk95WXROXwWWUlnNjczKC3/xdZeOIW3pEXCH4KMjo18A9CAWGeWQAFyIXzMFjYNev5VuyRb774km/dbbENWpB3Y878G6ea7GUhW9E=
-
+    secure: JpuJB9lRoIL9j8sihlseGh5f88FQmUHog9ky8z8F3RS6V0lbAoNPmELNIsj1yORH9nSsFmRHmZ/1TPrmg31bVFqKjey6g26AessWZOjz2rWU0BHd/73yM4iSabuuSoWu+nZUslfqFqYWk2mFkjA+DMw+6SMZRzK/wNJSUswf8Ew=
